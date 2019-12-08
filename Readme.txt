@@ -1,4 +1,4 @@
-This program uses 6 command-line arguments for user input as Sir Colin said that doing so would yield
+This program uses 6 command-line arguments for user input as my professor said that doing so would yield
 bonus points.
 The array element next to '-m' is used as message.
 The array element (expected to be an integer) next to '-w' is used as width.
